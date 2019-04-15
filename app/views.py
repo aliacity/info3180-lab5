@@ -68,7 +68,7 @@ def secure_page():
 def logout():
     # Logout the user and end the session
     logout_user()
-    flash('You have been logged out.', 'danger')
+    flash('You have been logged out.', 'Danger')
     return redirect(url_for('home'))
 
 
