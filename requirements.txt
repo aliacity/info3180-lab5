@@ -8,8 +8,10 @@ Flask-Migrate
 Flask-Script
 Flask-Login
 psycopg2
+psycopg2-binary
 
 # ----------------------
 # Production Server
 # ----------------------
 gunicorn
+© 2019 GitHub, Inc.
